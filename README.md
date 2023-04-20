@@ -12,6 +12,7 @@
 
 💻 Languages 
 - JavaScript
+- TypeScript(Learning)
 - Html
 - Java
 - Php
@@ -19,7 +20,6 @@
 
 📚 Frameworks and Libraries
 - React(Learning)
-- TypeScript(Learning)
 - Boostrap
 
 🛠️ Tools
