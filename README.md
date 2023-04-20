@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hello my name is Simge I am an Computer Engineer Student. 👋👩‍🎓
+![alt text](https://fullscale.io/wp-content/uploads/2022/04/front-end-tools.png)
+### ABOUT ME 
+- 🔭 I’m currently working on Front-End.
+- 📞 I am looking to collaborate on Front-End projects ( Full-Stack coming soon...)
+- 🌱 I’m currently learning React.
+- 📫 You can contact me at: simge.naz.y@outlook.com.
+- 🎨 I'm interested in design.
 
-<!--
-**simgenaz/Simgenaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### KNOWLEDGE BASE
 
-Here are some ideas to get you started:
+💻 Languages 
+- JavaScript
+- Html
+- Java
+- Php
+- Css
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Frameworks and Libraries
+- React(Learning)
+- TypeScript(Learning)
+- Boostrap
+
+🛠️ Tools
+- Visual Studio Code
+- Netbeans
+- Discord
+- Git
+
+Show your support! ⭐
+Thank you for visiting my profile, if you like any of my projects, I appreciate your support giving a ⭐
+
+
