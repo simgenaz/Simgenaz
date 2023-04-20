@@ -3,6 +3,7 @@
 ### ABOUT ME 
 - 🔭 I’m currently working on Front-End.
 - 📞 I am looking to collaborate on Front-End projects ( Full-Stack coming soon...)
+- 🌍 I am Turkish, born and raised in Turkey, living at the moment in Turkey/Istanbul.
 - 🌱 I’m currently learning React.
 - 📫 You can contact me at: simge.naz.y@outlook.com.
 - 🎨 I'm interested in design.
