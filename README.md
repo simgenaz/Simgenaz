@@ -27,7 +27,7 @@
 - Discord
 - Git
 
-Show your support! ⭐
+### Show your support! ⭐
 Thank you for visiting my profile, if you like any of my projects, I appreciate your support giving a ⭐
 
 
