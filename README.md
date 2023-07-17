@@ -17,10 +17,12 @@
 - Java
 - Php
 - Css
+- MySql
 
 📚 Frameworks and Libraries
 - React(Learning)
 - Boostrap
+- Vue
 
 🛠️ Tools
 - Visual Studio Code
