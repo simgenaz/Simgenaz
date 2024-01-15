@@ -1,5 +1,4 @@
 ### Hello my name is Simge I am an Computer Engineer. 👋👩‍🎓
-//![alt text](https://fullscale.io/wp-content/uploads/2022/04/front-end-tools.png)
 ### ABOUT ME 
 - 🔭 I’m currently working on Full-Stack developer.
 - 📞 I am looking to collaborate on Full-Stack projects.
