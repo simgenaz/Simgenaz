@@ -1,21 +1,21 @@
 ### Hello my name is Simge I am an Computer Engineer. 👋👩‍🎓
 ### ABOUT ME 
-- 🔭 I’m currently working on Full-Stack developer.
+- 🔭 I’m currently working on Java developer.
 - 📞 I am looking to collaborate on Full-Stack projects.
 - 🌍 I am Turkish, born and raised in Turkey, living at the moment in Turkey/Istanbul.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning everything about Java.
 - 📫 You can contact me at: simge.naz.y@outlook.com.
 - 🎨 I'm interested in design.
 
 ### KNOWLEDGE BASE
 
 💻 Languages 
+- Java
+- MySql
+- Php
 - JavaScript
 - Html
-- Java
-- Php
 - Css
-- MySql
 
 📚 Frameworks and Libraries
 - React(Learning)
