@@ -11,7 +11,6 @@
 
 💻 Languages 
 - JavaScript
-- TypeScript(Learning)
 - Html
 - Java
 - Php
